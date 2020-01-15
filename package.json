@@ -1,0 +1,14 @@
+{
+  "name": "template-engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin":{
+    "hello": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
